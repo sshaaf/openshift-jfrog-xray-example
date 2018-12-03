@@ -49,7 +49,7 @@ Ensure the following
 Now you can initiate the pipeline which will deploy to Dev project, and ask for input on the stage project.
 
 
-
+This project is a trim down fork of: https://github.com/siamaksade/openshift-cd-demo
 
 
 
